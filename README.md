@@ -1,4 +1,4 @@
-# ANN ArtificialNetwork
+# ANN Artificial Neural Network
 
 # Sieć neuronowa w TensorFlow
 
